@@ -1,6 +1,6 @@
-#ifndef TOOLS_H
+#ifndef TOOLS2_H
 
-#define TOOLS_H
+#define TOOLS2_H
 
 void cr_fake_loading_text(void);
 
